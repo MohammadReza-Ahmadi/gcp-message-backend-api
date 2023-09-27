@@ -1,0 +1,7 @@
+#runtime: java
+#env: flex
+#
+#network:
+#  port: 9090
+#  forwarded_ports:
+#    - 2222/tcp

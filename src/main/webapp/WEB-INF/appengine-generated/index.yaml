@@ -1,0 +1,9 @@
+
+indexes:
+
+  - kind: Comment
+    ancestor: no
+    properties:
+      - name: postId
+      - name: createDate
+        direction: desc
